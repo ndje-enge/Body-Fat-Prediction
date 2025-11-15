@@ -54,27 +54,27 @@ The dataset contains **252 observations** with **15 features**:
 ### Main Visualizations:
 
 #### 1. Body Fat Distribution
-![Body Fat Distribution](Distribution.png)
+![Body Fat Distribution](Visualizations/Distribution.png)
 *Histogram showing the distribution of body fat percentage across the dataset*
 
 #### 2. Body Fat vs Age Correlation
-![Body Fat vs Age](BodyFat%20Age.png)
+![Body Fat vs Age](Visualizations/BodyFat%20Age.png)
 *Scatter plot demonstrating the correlation between body fat percentage and age*
 
 #### 3. BMI Weight Categories
-![BMI Categories](Pie.png)
+![BMI Categories](Visualizations/Pie.png)
 *Pie chart showing the distribution of weight categories based on BMI classification*
 
 #### 4. Correlation Heatmap
-![Correlation Heatmap](Correlation%20Matrix.png)
+![Correlation Heatmap](Visualizations/Correlation%20Matrix.png)
 *Heatmap displaying correlations between all features in the dataset*
 
 #### 5. Feature Correlation with BodyFat
-![Feature Correlation](Feature%20correlation%20with%20BodyFat.png)
+![Feature Correlation](Visualizations/Feature%20correlation%20with%20BodyFat.png)
 *Bar chart showing correlation between each feature and body fat percentage*
 
 #### 6. Boxplots for Outlier Detection
-![Boxplots](BoxPlot.png)
+![Boxplots](Visualizations/BoxPlot.png)
 *Boxplots for each feature to identify outliers and data distribution*
 
 ### Key Insights:
@@ -121,7 +121,7 @@ The dataset contains **252 observations** with **15 features**:
 ### SHAP Analysis (SHapley Additive exPlanations):
 
 #### Feature Importance
-![Feature Importance](Feature%20Importance.png)
+![Feature Importance](Visualizations/Feature%20Importance.png)
 *Bar chart showing the importance of each feature in the model*
 
 - **Most Important Variables**: Abdomen, Chest, Hip, Weight
